@@ -1,4 +1,4 @@
 # hello-world
 just another repository
 
-Learning how this whole branh and commmit process work.
+Learning how this whole branch and commit process work.
